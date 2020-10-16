@@ -1,1 +1,1 @@
-web: bin/web-app-go1 -apikey $NEWS_API_KEY
+web: bin/web-app-go1 -apiKey $NEWS_API_KEY
